@@ -1,0 +1,63 @@
+.bg {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+}
+
+.form {
+  background-color: #131213;
+  width: 35vw;
+  padding-left: 30px;
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: #f3aa4e;
+}
+label {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.labels-card {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+
+input {
+  padding: 8px;
+  outline: none;
+}
+.select-bg {
+  display: flex;
+  flex-direction: column;
+  width: 258px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+select {
+  height: 35px;
+  width: 258px;
+  padding: 10px;
+  outline: none;
+}
+
+.add-task {
+  background-color: #f3aa4e;
+  border: 0px none;
+  border-radius: 5px;
+  text-align: center;
+  height: 25px;
+  color: white;
+  font-weight: bold;
+  margin: 30px;
+  width: 100px;
+  margin-left: 90px;
+}

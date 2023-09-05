@@ -1,0 +1,19 @@
+.task-bg {
+  background-color: #1a171d;
+  padding: 10px;
+  color: white;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.tag-check-btn {
+  background-color: #f3aa4e;
+  border: 0px none;
+  border-radius: 5px;
+  text-align: center;
+  height: 25px;
+  color: white;
+  font-weight: bold;
+}
